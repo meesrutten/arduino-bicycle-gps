@@ -5,7 +5,7 @@ BikeGPS is a way to visualize and hear the route a user has to ride on their bik
 
 The LEDs and voice instructions on Bike GPS will make the driver know where he is headed. The driver can always have two hands at the wheel and is also more visible to others in traffic, because of the LEDs. The user uses Google Maps for the route, after which the user will connect to the Bike GPS device via Bluetooth, Bike GPS will set the light intensity, all set and done.
 
-![Customer Journey](https://github.com/meesrutten/arduino-bicycle-gps/blob/master/ledgps-cj.png)
+![Customer Journey](https://github.com/meesrutten/arduino-bicycle-gps/blob/master/bikegps-cj.png)
 
 ---
 ## What's needed?
